@@ -1,5 +1,5 @@
 ## Hi, I'm Michael 🍁​
-🧠​ Software Engineer Graduate @ RIT<br>​🌌​ I create full stack applications<br>🔭 Currently working on a mini projects to keep up with new technology<br>⚡ Built a 3D system visualizing satellites for BAE Systems
+🧠​ Software Engineer Graduate @ RIT<br>​🌌​ I create full stack applications<br>🔭 Currently working on mini projects to keep up with new technology<br>⚡ Built a 3D system visualizing satellites for BAE Systems
 
 
 ## 🌐 Socials:
